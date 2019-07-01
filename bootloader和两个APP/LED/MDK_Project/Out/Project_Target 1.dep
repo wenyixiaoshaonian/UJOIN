@@ -1,0 +1,48 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+F (..\Lib\startup\arm\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0--pd "__UVISION_VERSION SETA 523" --pd "STM32F10X_HD SETA 1"--list .\list\startup_stm32f10x_hd.lst --xref -o .\out\startup_stm32f10x_hd.o --depend .\out\startup_stm32f10x_hd.d)
+F (..\Lib\cmsis\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\core_cm3.o --omf_browse .\out\core_cm3.crf --depend .\out\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+F (..\User\system_stm32f10x.c)(0x5AA22446)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\system_stm32f10x.o --omf_browse .\out\system_stm32f10x.crf --depend .\out\system_stm32f10x.d)
+I (..\Lib\cmsis\stm32f10x.h)(0x4D783CB4)
+I (..\Lib\cmsis\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\Lib\cmsis\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4E2FE66E)
+I (..\Lib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (..\Lib\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\stm32f10x_gpio.o --omf_browse .\out\stm32f10x_gpio.crf --depend .\out\stm32f10x_gpio.d)
+I (..\Lib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\Lib\cmsis\stm32f10x.h)(0x4D783CB4)
+I (..\Lib\cmsis\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\Lib\cmsis\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4E2FE66E)
+I (..\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (..\Lib\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\stm32f10x_rcc.o --omf_browse .\out\stm32f10x_rcc.crf --depend .\out\stm32f10x_rcc.d)
+I (..\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\Lib\cmsis\stm32f10x.h)(0x4D783CB4)
+I (..\Lib\cmsis\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\Lib\cmsis\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4E2FE66E)
+I (..\Lib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+F (..\User\main.c)(0x5D172465)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\main.o --omf_browse .\out\main.crf --depend .\out\main.d)
+I (..\Lib\cmsis\stm32f10x.h)(0x4D783CB4)
+I (..\Lib\cmsis\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\Lib\cmsis\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4E2FE66E)
+I (..\Lib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+F (..\User\stm32f10x_it.c)(0x4D99A59E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Lib\cmsis -I ..\Lib\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-D__UVISION_VERSION="523" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\out\stm32f10x_it.o --omf_browse .\out\stm32f10x_it.crf --depend .\out\stm32f10x_it.d)
+I (..\User\stm32f10x_it.h)(0x4D99A59E)
+I (..\Lib\cmsis\stm32f10x.h)(0x4D783CB4)
+I (..\Lib\cmsis\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\Lib\cmsis\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4E2FE66E)
+I (..\Lib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (..\Readme.txt)(0x4EC36258)()
